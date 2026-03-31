@@ -1,1 +1,1 @@
-digital vagrant
+code vagrant
